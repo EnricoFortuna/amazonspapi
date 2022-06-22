@@ -1,4 +1,4 @@
-"# amazonspapi" 
+"# amazonspapi"  for EU
 
 example use
 

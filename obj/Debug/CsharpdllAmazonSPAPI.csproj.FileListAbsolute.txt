@@ -1,0 +1,53 @@
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.csprojResolveAssemblyReference.cache
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\CsharpdllAmazonSPAPI.dll
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\CsharpdllAmazonSPAPI.pdb
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.dll
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.dll
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\RestSharp.dll
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.pdb
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.xml
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.pdb
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.xml
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\RestSharp.xml
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.dll
+c:\users\sviluppo\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.pdb
+C:\Users\SVILUPPO\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Moq.dll
+C:\Users\SVILUPPO\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Moq.pdb
+C:\Users\SVILUPPO\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Moq.xml
+C:\Users\SVILUPPO\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Castle.Core.dll
+C:\Users\SVILUPPO\documents\visual studio 2013\Projects\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Castle.Core.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\CsharpdllAmazonSPAPI.dll
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\CsharpdllAmazonSPAPI.pdb
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.dll
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\RestSharp.dll
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.pdb
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Castle.Core.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Moq.pdb
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Moq.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\RestSharp.xml
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.csprojResolveAssemblyReference.cache
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.dll
+C:\Users\SVILUPPO\Documents\Visual Studio 2013\Projects\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.pdb
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\CsharpdllAmazonSPAPI.dll
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\CsharpdllAmazonSPAPI.pdb
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.dll
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.dll
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\Newtonsoft.Json.dll
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\RestSharp.dll
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.pdb
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.Core.xml
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\AWSSDK.SecurityToken.xml
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\bin\Debug\RestSharp.xml
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.dll
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.pdb
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.csproj.CoreCompileInputs.cache
+C:\CsharpAmazonSPAPI\CsharpdllAmazonSPAPI\CsharpdllAmazonSPAPI\obj\Debug\CsharpdllAmazonSPAPI.csproj.CopyComplete
